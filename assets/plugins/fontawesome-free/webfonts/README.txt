@@ -1,0 +1,1 @@
+Place all webfont files from FontAwesome's 'webfonts/' directory here.
